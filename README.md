@@ -20,9 +20,10 @@ Skills
 - Git & GitHub
 
 Projects
-
 -GlowShop ecommerce app - https://github.com/Thembeka1/Glowshop-Angularapp
+
 -Nestbloom App - https://github.com/Thembeka1/Nest-Bloom-Clothing
+
 -Voting System App-https://github.com/Thembeka1/java-voting-sytem
 
 My Goals
