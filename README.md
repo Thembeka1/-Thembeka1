@@ -1,4 +1,4 @@
- Hi, I'm Thembeka 👋
+ Hi, I'm Thembeka 
 
  Aspiring Full Stack Developer
 
