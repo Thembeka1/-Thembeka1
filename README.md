@@ -1,4 +1,4 @@
- Hi, I'm Thembeka 
+ Hi, I'm Thembeka Biyela
 
  Aspiring Full Stack Developer
 
@@ -6,13 +6,11 @@ Currently learning:
 - Java
 - Spring Boot
 - Angular
-- PostgreSQL
-
+  
 Building projects and improving my coding skills.
 
 Skills
 - Java
-- Spring Boot
 -Angular
 - HTML
 - CSS
