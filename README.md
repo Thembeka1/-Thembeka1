@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💜 Aspiring Full Stack Developer from South Africa 🇿🇦
+💜 Aspiring Full Stack Developer...
 </h3>
 
 <p align="center">
