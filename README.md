@@ -30,7 +30,7 @@ Building projects • Learning every day • Growing one line of code at a time 
 
 <img src="https://img.shields.io/badge/Java-6C63FF?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML5-7B68EE?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-7B68EE?style=for-the-badge&logo=html5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-5A67D8?style=for-the-badge&logo=css3&logoColor=white"/>
 
